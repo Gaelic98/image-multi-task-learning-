@@ -12,7 +12,6 @@ from keras.layers.normalization import BatchNormalization
 from keras.callbacks import ModelCheckpoint, TensorBoard
 from keras.initializers import RandomUniform
 from keras.utils import plot_model
-import cv2
 import os
 import pickle
 import numpy as np
